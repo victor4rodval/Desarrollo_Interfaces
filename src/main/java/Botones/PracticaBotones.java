@@ -11,6 +11,8 @@ package Botones;
 public class PracticaBotones {
     public static void main(String[] args) {
         
+        
+        
         Botones b = new Botones();
         b.setVisible(true);
     }
